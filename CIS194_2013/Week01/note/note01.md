@@ -1,4 +1,4 @@
-# Week1 Introduction to Haskell
+# Introduction to Haskell
 
 What is Haskell?
 ---

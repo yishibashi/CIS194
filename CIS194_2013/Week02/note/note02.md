@@ -1,4 +1,4 @@
-# Week2 Algebraic Data Types
+# Algebraic Data Types
 
 Enumeration types
 ---
